@@ -7,7 +7,7 @@ Códigos e anotações realizadas durante o curso de estudo sobre HTML5 e CSS3 n
 
 1. As aulas estão em ordem por módulos e aulas na mesma ordem do curso;
 2. O documento ".docx" são anotações a parte realizadas durante a aula, sejam em prints, links e texto;
-3. O desafio "d010" do módulo 2 é referente ä minha primeira tentativa de resolver o desafio. O arquivo "d010resolvido" é o desafio resolvido pelo Gustavo Guanabara.
+3. O desafio "d010" do módulo 2 é referente ä minha primeira tentativa de resolver o desafio. O arquivo "d010resolvido" é o desafio resolvido pelo Gustavo Guanabara (https://ielsel.github.io/Estudo-CursoEmVideo-HTML5-CSS3/Modulo%202/desafios/d010resolvido/android.html).
 
 ---
 
