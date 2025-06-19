@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+@font-face{
+    font-family: 'Comic';
+    src: url('../fontes/ComicRelief-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: 'Passion';
+    src: url('../fontes/PassionOne-Bold.ttf');
+    font-weight: normal;
+}
+
+body {
+    background-color: black;
+    margin: 0px;
+}
+
+header {
+    color: white;
+    text-align: center;
+    margin: 40px;
+}
+
+h1{
+    font-size: 5em;
+    margin: auto;
+    font-family: 'Passion';
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    font-size: 0.9em;
+}
+
+a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+main {
+    font-family: 'Comic';
+    font-style: italic;
+    font-weight: bold;
+}
+
+section{
+    padding: 60px 0px 60px 20px;
+}
+
+section.sem-fundo{
+    color: black;
+    background-color: white;
+}
+
+section.com-fundo{
+    color: white;
+    background-color: black;
+}
+
+section > article.fundo-artigo{
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+    background-color: rgba(0, 0, 0, 0.527);
+}
+
+section#fundo-flor{
+    background: black url('../imagens/flor-amarela.png')
+    right center no-repeat fixed;
+    background-size:cover;
+}
+
+section#fundo-livro{
+    background: black url('../imagens/livro.jpg')
+    right center no-repeat fixed;
+    background-size:cover;
+}
+
+p{
+    font-size: 1.5em;
+}
+
+p.espacamento{
+    margin-top: 100px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    padding: 10px 0px 10px 0px;
+}
